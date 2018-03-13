@@ -1,0 +1,2 @@
+model_checkpoint_path: "fully-connected"
+all_model_checkpoint_paths: "fully-connected"
